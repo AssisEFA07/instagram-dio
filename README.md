@@ -8,3 +8,11 @@ Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## 🚀 Let's code! 🚀
+
+
+# Resultado final do projeto:
+
+### "Clone" da página de login do instagram
+### Teste de responsividade via DevTools
+### Utilização das propriedades flex-box. 
+### nota: não foram indicados linkas para os elementos interativos, tendo em vista que não é objetivo do projeto. 

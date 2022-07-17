@@ -3,8 +3,9 @@
     margin: 0;
     box-sizing: border-box;
     text-decoration: none;
-    font-family: sans-serif;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
     font-size: 14px;
+    color: #262626;
 }
 
 body {
@@ -56,7 +57,7 @@ body {
     border: 1px solid lightgray;
 }
 
-.group:nth-child(1) {
+.group:nth-child(1) {  /*logo instagram*/
     min-height: 19rem;
 }
 
@@ -69,7 +70,7 @@ body {
     justify-content: center;
     align-items: center;
     border-radius: 50%;
-    overflow: hidden;
+    overflow: hidden; /*esconde o que ultrapassa a div*/
 }
 
 .profile-photo img {
@@ -81,6 +82,8 @@ body {
     color: #ffffff;
     padding: 8px;
     border-radius: 4px;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    font-weight: bold;
 }
 
 .instagram-logout {
@@ -89,11 +92,13 @@ body {
 }
 
 .not-account {
-    color: rgb(160, 160, 160);
+    color:#262626;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
 }
 
 .link-blue {
     color: #0095f6;
+    font-weight: bold;
 }
 
 .get-the-app {
@@ -127,6 +132,18 @@ body {
     background-image: url('./img/googleplay-button.png');
 }
 
+footer {
+    width: 100%;
+    background-color: rgb(243, 243, 243);
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    color: #262626;
+    text-align:center;
+  }
+
 /* media queries */
 
 
@@ -146,7 +163,7 @@ body {
     }
 
     .instagram-phone {
-        display: none;
+        display: none; /*apaga o a imagem do celular da tela de login */
     }
 
     .instagram-continue {
