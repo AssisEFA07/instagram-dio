@@ -16,3 +16,5 @@ Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface
 ### Teste de responsividade via DevTools
 ### Utilização das propriedades flex-box. 
 ### nota: não foram indicados linkas para os elementos interativos, tendo em vista que não é objetivo do projeto. 
+
+### [http://AssisEFA07.github.io/instagram-dio](Instagram Clone - login)
