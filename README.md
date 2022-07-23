@@ -15,6 +15,6 @@ Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface
 ### "Clone" da página de login do instagram
 ### Teste de responsividade via DevTools
 ### Utilização das propriedades flex-box. 
-### nota: não foram indicados linkas para os elementos interativos, tendo em vista que não é objetivo do projeto. 
+### nota: não foram indicados links para os elementos interativos, tendo em vista que não é objetivo do projeto. 
 
 ### [Instagram Clone - login](http://AssisEFA07.github.io/instagram-dio) 
